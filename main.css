@@ -1,0 +1,23 @@
+body{
+	height: 100%;
+	margin: 0;
+	text-align: left;
+	width: 100%;
+	background-color: black;
+}
+h1{
+	font-size: 32px;
+	font-family: none;
+	background-color: white;
+}
+h2{
+	font-size: 35px;
+	font-family: 'Jokerman';
+}
+nav{
+	text-align: right;
+}
+nav li{
+	color: white;
+	
+}
